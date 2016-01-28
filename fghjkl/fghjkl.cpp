@@ -16,7 +16,11 @@ int main() {
 <<<<<<< HEAD
 	cout << "!!!Hello World!!!1234-12345" << endl; // prints !!!Hello World!!!
 =======
+<<<<<<< HEAD
 	cout << "!!!Hello World!!!1234-12355555555555555555555555" << endl; // prints !!!Hello World!!!
+=======
+	cout << "!!!Hello World!!!1234-12366666666666" << endl; // prints !!!Hello World!!!
+>>>>>>> refs/heads/master
 >>>>>>> refs/heads/master
 
 	return 0;
