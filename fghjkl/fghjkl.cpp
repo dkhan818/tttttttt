@@ -10,9 +10,8 @@
 using namespace std;
 
 int main() {
-<<<<<<< HEAD
+
 	cout << "!!!Hello World!!!1234-12" << endl; // prints !!!Hello World!!!
-=======
->>>>>>> refs/heads/master
+
 	return 0;
 }
